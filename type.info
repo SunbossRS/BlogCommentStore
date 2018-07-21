@@ -1,0 +1,19 @@
+gitalk=true
+
+helloworld=true
+
+initialization.createissue=true
+
+start=true
+
+chunk=5
+
+markdown.inside=true
+
+do=true
+
+atgithubuser=true
+
+issue.type=article.open
+
+{ start.issue.to.comment.do }
