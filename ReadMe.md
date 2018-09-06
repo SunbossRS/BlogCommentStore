@@ -4,9 +4,9 @@
 <pre>
 <code>
 这是滑稽的表情。
-<img src="http://github.com/sunbossrs/blogcommentstore/raw/master/emoji/滑稽.png" width="20%" height="20%" />
+![emoji](//github.com/sunbossrs/blogcommentstore/raw/master/emoji/滑稽.png")
 </code>
 </pre>
 
-我们来看一看写下来的感觉怎么样<img src="http://github.com/sunbossrs/blogcommentstore/raw/master/emoji/滑稽.png" width="20%" height="20%" />呵呵呵呵呵   
+我们来看一看写下来的感觉怎么样![emoji](//github.com/sunbossrs/blogcommentstore/raw/master/emoji/滑稽.png)呵呵呵呵   
 还有更多好玩的等着你来发现！
