@@ -1,4 +1,6 @@
-<center> <h2>Talk! ></h2> </center>
+<center>
+<p style="size: 60px"> Talk! > </p>
+</center>
 欢迎来到耀庄老弟的评论系统的储存器仓库。  
 耀庄老弟现在是用的是依靠Vue.js框架的评论系统。  
 目前正处于开源空间GitHub。
