@@ -6,9 +6,17 @@
 现在是用的是依靠Vue.js框架的评论系统。<br/>
 目前正处于开源空间GitHub。
 </center>
+
 ---
+
 ![issues](https://img.shields.io/github/issues/sunbossrs/suntalk_save.svg?style=flat-square)  
-![use-type](https://img.shields.io/badge/use-type-vue.js-green.svg)
+![use-type](https://img.shields.io/badge/use--type-vue.js-green.svg?style=flat-square)  
+![stand-by](https://img.shields.io/badge/stand--by-vssue-green.svg?style=flat-square)  
+![vue-type](https://img.shields.io/badge/vue--type-full-orange.svg?style=flat-square)  
+![issue-output](https://img.shields.io/badge/issue--output-md5-lightgrey.svg?style=flat-square)
+
+---
+
 #### 快速。
 采用最先进的框架，并使用Unpkg进行内容提供。
 
