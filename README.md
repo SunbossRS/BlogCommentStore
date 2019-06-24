@@ -8,7 +8,7 @@
 </center>
 
 ---
-
+### 状态标签
 ![issues](https://img.shields.io/github/issues/sunbossrs/suntalk_save.svg?style=flat-square)  
 ![use-type](https://img.shields.io/badge/use--type-vue.js-green.svg?style=flat-square)  
 ![stand-by](https://img.shields.io/badge/stand--by-vssue-green.svg?style=flat-square)  
@@ -16,13 +16,16 @@
 ![issue-output](https://img.shields.io/badge/issue--output-md5-lightgrey.svg?style=flat-square)
 
 ---
-
-::> 网站运作正常。
+### 运作
+> 网站和数据库运作正常。  
+<br/>
+!> 发现错误:  
+!> - 发表评论时会发送两个。
 
 ---
 
 #### 快速。
-采用最先进的框架，并使用Unpkg进行内容提供。
+采用最先进的框架并使用Unpkg进行内容提供。
 
 #### 好看。
 凡事先靠颜值。评论系统使用的是非常养眼的绿色，很好看，Ui也设计的很好。
@@ -41,4 +44,24 @@
 
 ---
 
-!> 该保存库在制作期间也许会遇到某些麻烦。请好好使用。
+<link rel="stylesheet" href="https://unpkg.com/vssue/dist/vssue.min.css">
+<script src="https://unpkg.com/vue/dist/vue.min.js"></script>
+<script src="https://unpkg.com/vssue/dist/vssue.github.min.js"></script>
+<script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"></script>
+  <script>
+    var talk = SunTalk
+    new Vue({
+      el: '#vssue',
+      render: h => h('Vssue', {
+        props: {
+          title: md5(talk) ,
+          options: {
+            owner: 'SunbossRS',
+            repo: 'SunTalk_Save',
+            clientId: '800a929ad18c8e90fdbc',
+            clientSecret: '3dcb1cc3680b9b85ad4291367b4aafefd6806e58',
+          },
+        }
+      })
+    })
+  </script>
