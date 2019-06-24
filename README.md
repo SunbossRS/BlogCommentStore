@@ -17,11 +17,11 @@
 
 ---
 ### 运作
-> 网站和数据库运作正常。  
+> 网站和数据库运作正常。
 <br/>
 
 !> 发现错误:   
-!> 发表评论时会发送两个。
+> 发表评论时会发送两个。
 
 ---
 
@@ -55,7 +55,7 @@
       el: '#vssue',
       render: h => h('Vssue', {
         props: {
-          title: md5(talk) ,
+          title: 'SunTalk',
           options: {
             owner: 'SunbossRS',
             repo: 'SunTalk_Save',
