@@ -1,13 +1,3 @@
-<center>
-<h1> Talk! > </h1>
-</center>
-<center>
-欢迎来到耀庄老弟的评论系统的储存器仓库。<br/>
-现在是用的是依靠Vue.js框架的评论系统。<br/>
-目前正处于开源空间GitHub。
-</center>
-
----
 ### 状态标签
 ![issues](https://img.shields.io/github/issues/sunbossrs/suntalk_save.svg?style=flat-square)  
 ![use-type](https://img.shields.io/badge/use--type-vue.js-green.svg?style=flat-square)  
