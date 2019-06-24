@@ -20,8 +20,8 @@
 > 网站和数据库运作正常。
 <br/>
 
-!> 发现错误:   
-> 发表评论时会发送两个。
+!> 发现错误: 
+!> 发表评论时会发送两个。
 
 ---
 
@@ -45,6 +45,7 @@
 
 ---
 
+<div id="vssue"></div>
 <link rel="stylesheet" href="https://unpkg.com/vssue/dist/vssue.min.css">
 <script src="https://unpkg.com/vue/dist/vue.min.js"></script>
 <script src="https://unpkg.com/vssue/dist/vssue.github.min.js"></script>
