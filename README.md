@@ -17,11 +17,10 @@
 
 ---
 ### 运作
-> 网站和数据库运作正常。
+?> 网站和数据库运作正常。
 <br/>
 
-!> 发现错误: 
-!> 发表评论时会发送两个。
+!> 发现错误: 发表评论时会发送两个
 
 ---
 
@@ -51,7 +50,6 @@
 <script src="https://unpkg.com/vssue/dist/vssue.github.min.js"></script>
 <script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"></script>
   <script>
-    var talk = SunTalk
     new Vue({
       el: '#vssue',
       render: h => h('Vssue', {
