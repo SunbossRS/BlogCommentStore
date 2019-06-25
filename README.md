@@ -1,5 +1,6 @@
 # Talk! >
 
+---
 ### 状态标签
 ![issues](https://img.shields.io/github/issues/sunbossrs/suntalk_save.svg?style=flat-square)  
 ![use-type](https://img.shields.io/badge/use--type-vue.js-green.svg?style=flat-square)  
@@ -10,12 +11,10 @@
 ---
 ### 运作
 > 网站和数据库运作正常。
-<br/>
 
 !> 发现错误: 发表评论时会发送两个
 
 ---
-
 **快速。**  
 采用最先进的框架并使用Unpkg进行内容提供。
 
