@@ -1,3 +1,5 @@
+# Talk! >
+
 ### 状态标签
 ![issues](https://img.shields.io/github/issues/sunbossrs/suntalk_save.svg?style=flat-square)  
 ![use-type](https://img.shields.io/badge/use--type-vue.js-green.svg?style=flat-square)  
@@ -7,7 +9,7 @@
 
 ---
 ### 运作
-?> 网站和数据库运作正常。
+> 网站和数据库运作正常。
 <br/>
 
 !> 发现错误: 发表评论时会发送两个
@@ -35,23 +37,3 @@
 ---
 
 <div id="vssue"></div>
-<link rel="stylesheet" href="https://unpkg.com/vssue/dist/vssue.min.css">
-<script src="https://unpkg.com/vue/dist/vue.min.js"></script>
-<script src="https://unpkg.com/vssue/dist/vssue.github.min.js"></script>
-<script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"></script>
-  <script>
-    new Vue({
-      el: '#vssue',
-      render: h => h('Vssue', {
-        props: {
-          title: 'SunTalk',
-          options: {
-            owner: 'SunbossRS',
-            repo: 'SunTalk_Save',
-            clientId: '800a929ad18c8e90fdbc',
-            clientSecret: '3dcb1cc3680b9b85ad4291367b4aafefd6806e58',
-          },
-        }
-      })
-    })
-  </script>
