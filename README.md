@@ -20,6 +20,10 @@
 !> 发现错误: 发表评论时会发送两个
 
 ---
+### 传播
+![[GitHub](https://github.com/sunbossrs/suntalk_save)](https://img.shields.io/badge/open--source-github-blue.svg?style=flat-square)
+
+---
 **快速。**  
 采用最先进的框架并使用Unpkg进行内容提供。
 
