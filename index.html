@@ -19,9 +19,30 @@
     }
   </script>
 
-<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-<script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-yaml.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-json.min.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/vssue/dist/vssue.min.css">
+  <script src="https://unpkg.com/vue/dist/vue.min.js"></script>
+  <script src="https://unpkg.com/vssue/dist/vssue.github.min.js"></script>
+  <script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"></script>
+  <script>
+    new Vue({
+      el: '#vssue',
+      render: h => h('Vssue', {
+        props: {
+          title: 'SunTalk',
+          options: {
+            owner: 'SunbossRS',
+            repo: 'SunTalk_Save',
+            clientId: '800a929ad18c8e90fdbc',
+            clientSecret: '3dcb1cc3680b9b85ad4291367b4aafefd6806e58',
+          },
+        }
+      })
+    })
+  </script>
+
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-yaml.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-json.min.js"></script>
 </html>
