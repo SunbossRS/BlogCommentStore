@@ -28,7 +28,7 @@
 ![](https://sunbossrs.github.io/sunbossrs-comment-saver/emoji/滑稽.png)
 ```
 
-- 除此之外，耀日庄主SunbossRS时不时的会在这个网站项目里做一些仿网站后台管理文件系统的东西哦，想要来看看的可以[点一下这里](./filesystemmd)来查看。
+- 除此之外，耀日庄主SunbossRS时不时的会在这个网站项目里做一些仿网站后台管理文件系统的东西哦，想要来看看的可以[点一下这里](/filesystem)来查看。
 
 ---
 
