@@ -9,7 +9,7 @@
 代码工程师大大们使用了Github的合法API，制作了基于Github的issue评论系统，在这里还是要感谢工程师大大们，你们辛苦啦！我现在在用你们的评论系统，非常感谢你们提供的插件！
 
 ### 状态和运作
-![issues](https://img.shields.io/github/issues/sunbossrs/sunbossrs-comment-saver.svg?style=flat-square)![use-type](https://img.shields.io/badge/use--type-vue.js-green.svg?style=flat-square)![stand-by](https://img.shields.io/badge/stand--by-vssue-green.svg?style=flat-square)![vue-type](https://img.shields.io/badge/vue--type-full-orange.svg?style=flat-square)![issue-output](https://img.shields.io/badge/issue--output-md5-lightgrey.svg?style=flat-square)
+![use-type](https://img.shields.io/badge/use--type-vue.js-green.svg?style=flat-square)![stand-by](https://img.shields.io/badge/stand--by-vssue-green.svg?style=flat-square)![vue-type](https://img.shields.io/badge/vue--type-full-orange.svg?style=flat-square)![issue-output](https://img.shields.io/badge/issue--output-md5-lightgrey.svg?style=flat-square)
 
 > 网站和数据库运作正常(^w^)
 
